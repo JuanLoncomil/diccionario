@@ -1,0 +1,2 @@
+# diccionario
+01
